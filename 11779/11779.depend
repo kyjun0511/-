@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637852619 source:c:\users\kyj05\downloads\11779\main.cpp
+	<stdio.h>
+	<queue>
+	<vector>
+
